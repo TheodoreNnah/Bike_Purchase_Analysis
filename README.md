@@ -2,15 +2,15 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Sources](Data-sources)
-- [Tools](Tools)
-- [Data Cleaning/Preparation](Data-claening/preparation)
-- [Data Analysis](Data-analysis)
-- [Data Presentation](Data-presentation)
-- [Results/Findings](Results/findings)
-- [Recommendation](Recommendation)
-- [Limitations](Limitationsa)
-- [Reference](Reference)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-claening/preparation)
+- [Data Analysis](#data-analysis)
+- [Data Presentation](#data-presentation)
+- [Results/Findings](#results/findings)
+- [Recommendationsw](#recommendations)
+- [Limitations](#limitations)
+- [Reference](#reference)
 
 ### Project Overview
 
