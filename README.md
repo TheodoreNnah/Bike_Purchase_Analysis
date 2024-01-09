@@ -14,6 +14,8 @@
 
 ### Project Overview
 
+---
+
 This data analysis project aims to provide insights into the bikes purchase decisions of commuters accross three regions of Europe, North America and the Pacific.
 
 ### Data Sources
@@ -68,3 +70,6 @@ There was no limitation to this data set. although, there was a slight increase 
 
 ### Reference
 - Youtube - Excel Data analysis project by Alex Freberg
+
+
+😄💻📈📊
