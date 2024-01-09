@@ -21,3 +21,10 @@ in the initial data preparation phase, we peformed the following tasks:
 2. Removed duplicate data
 3. Data cleaning/formating
 4. Write "IF" statements to identify age brackets
+
+# Data Analysis
+
+We explored the bikes purchase data to answer key questions such as;
+1. What is the average income of bike purchase by gender?
+2. Is there a relationship between commute distance and bike purchase?
+3. What is the age bracket of the most bike buyers?
