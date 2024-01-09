@@ -23,7 +23,7 @@ Bike Purchase Data: The primary dataset used for this analysis is the "Bike_Buye
 ### Tools
 
 - Excel - Data Cleaning/Preparaion
-  - [Data Set]()
+  - [Download Data Set](https://github.com/TheodoreNnah/Bike_Purchase_Analysis/blob/main/Excel%20Project%20Dataset%20(1).xlsx)
 - Pivot Table - Creating Charts
 - Dashboard - Presenting Analysis
 
