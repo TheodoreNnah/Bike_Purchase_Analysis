@@ -1,6 +1,15 @@
 # Bike Purchase Analysis
 
 ## Table of Contents
+- [Project Overview](Project-overview)
+- [Data Sources](Data-sources)
+- [Tools](Tools)
+- [Data Cleaning/Preparation](Data-claening/preparation)
+- [Data Analysis](Data-analysis)
+- [Data Presentation](Data-presentation)
+- [Results/Findings](Results/findings)
+- [Recommendation](Recommendation)
+- [Limitations](Limitationsa)
 - [Reference](Reference)
 
 ### Project Overview
