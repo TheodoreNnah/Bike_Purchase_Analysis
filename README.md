@@ -46,6 +46,8 @@ We explored the bikes purchase data to answer key questions such as;
 
 Below is the dashboard of the data analysis findings:
 
+![Bike Purchase Analysis](https://github.com/TheodoreNnah/Bike_Purchase_Analysis/assets/124718559/9599d55f-8d75-4092-acc2-7bac4bb4686c)
+
 ### Results/Findings
 
 The fanalysis results are summarised as follows;
